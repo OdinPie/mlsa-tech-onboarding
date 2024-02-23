@@ -31,29 +31,30 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "News Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A dynamic news website where users can read news and post news and they are published uftaer admin approval",
+    url: "https://agun-news.web.app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "PDF Editing Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A dynamic pdf editing websiteI contributed in with my team",
+    url: "https://curious-dragon-bfb4a4.netlify.app/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This resume is built on the concept of reneissance paintings",
+    url: "https://resilient-shortbread-0f0a52.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Book Exchange Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A goto website for the bibliophiles to exchange old books , post their books and sell and buy them",
+    url: " https://book-exchange-website-7550b.web.app/",
   },
+  
 ];
 
 const Portfolio = () => {
